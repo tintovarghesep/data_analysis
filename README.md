@@ -1,3 +1,3 @@
 # Data Analysis
 
-A repo for all the data analysis projects.
+A repo for all the data analysis projects in python.
